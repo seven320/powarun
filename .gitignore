@@ -1,3 +1,4 @@
 account/*
 
-.env
+powarun_code/*.env
+main/src/.env
